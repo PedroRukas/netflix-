@@ -1,2 +1,0 @@
-# netflix
-login netflix
